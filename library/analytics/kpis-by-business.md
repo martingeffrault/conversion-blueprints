@@ -75,6 +75,8 @@ Referral → Do users tell others?
 | Demo → Close | N/A | 20-30% |
 | Free → Paid | 2-5% | N/A |
 
+*SaaS benchmarks: [First Page Sage](https://firstpagesage.com/seo-blog/b2b-saas-funnel-conversion-benchmarks-fc/), [OpenView](https://openviewpartners.com/product-benchmarks/).*
+
 ---
 
 ## E-Commerce
@@ -118,6 +120,8 @@ Referral → Do users tell others?
 | Cart Abandonment | 70% | < 60% |
 | AOV | $100 | Category dependent |
 | Repeat Purchase Rate | 25% | 40%+ |
+
+*E-commerce benchmarks: [Shopify](https://www.shopify.com/blog/ecommerce-conversion-rate), [Baymard](https://baymard.com/lists/cart-abandonment-rate).*
 
 ---
 
@@ -163,6 +167,8 @@ Referral → Do users tell others?
 | MQL → SQL | 15-30% | 40%+ |
 | SQL → Opportunity | 30-50% | 60%+ |
 | Opportunity → Close | 15-30% | 35%+ |
+
+*B2B funnel benchmarks: [First Page Sage](https://firstpagesage.com/seo-blog/b2b-saas-funnel-conversion-benchmarks-fc/), [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/).*
 
 ---
 
