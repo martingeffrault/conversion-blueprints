@@ -21,6 +21,8 @@
 | Paid Search | 200% | Medium |
 | Organic Social | Variable | Low |
 
+*Email ROI: [Litmus](https://www.litmus.com/blog/email-marketing-roi), [HubSpot](https://blog.hubspot.com/marketing/email-marketing-stats).*
+
 ### Key Automation Benchmarks
 
 | Sequence Type | Open Rate | CTR | Conversion |
