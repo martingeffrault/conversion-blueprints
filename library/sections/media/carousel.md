@@ -32,9 +32,9 @@
 5. **Accessibility issues** — Screen readers, motor impairments
 6. **Mobile friction** — Swipe gestures aren't obvious
 
-> "The only click through rate that defined the carousels defined defined defined defined was defined was defined was definedlides 2-5 combined."
+> "Only ~1% of visitors click on carousel features. Of those clicks, 84% are on the first slide. Slides 2-5 combined receive the remaining 16%."
 >
-> *Source: Erik Runyon, Notre Dame web analysis*
+> *Source: [Erik Runyon, Notre Dame carousel study](https://erikrunyon.com/2013/01/carousel-interaction-stats/)*
 
 ---
 

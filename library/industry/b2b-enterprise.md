@@ -694,13 +694,13 @@ For complex products with multiple modules:
 
 ### By Funnel Stage
 
-| Metric | B2B Average | Top Performers |
-|--------|-------------|----------------|
-| Website → Lead | 2-3% | 5-7% |
-| Lead → MQL | 20-30% | 40%+ |
-| MQL → SQL | 10-20% | 30%+ |
-| SQL → Opportunity | 40-60% | 70%+ |
-| Opportunity → Customer | 20-30% | 40%+ |
+| Metric | B2B Average | Top Performers | Source |
+|--------|-------------|----------------|--------|
+| Website → Lead | 1.4-2.3% | 5%+ | [Digital Bloom](https://thedigitalbloom.com/learn/pipeline-performance-benchmarks-2025/), [First Page Sage](https://firstpagesage.com/seo-blog/b2b-saas-funnel-conversion-benchmarks-fc/) |
+| Lead → MQL | 31-41% | 50%+ | [Digital Bloom](https://thedigitalbloom.com/learn/pipeline-performance-benchmarks-2025/) |
+| MQL → SQL | 13-21% | 25-35% | [First Page Sage](https://firstpagesage.com/seo-blog/b2b-saas-funnel-conversion-benchmarks-fc/), [Understory](https://www.understoryagency.com/blog/mql-to-sql-conversion-rate-benchmarks) |
+| SQL → Opportunity | 30-42% | 48%+ | [Digital Bloom](https://thedigitalbloom.com/learn/pipeline-performance-benchmarks-2025/) |
+| Opportunity → Customer | 22-31% | 39%+ | [Digital Bloom](https://thedigitalbloom.com/learn/pipeline-performance-benchmarks-2025/)
 
 ### By Channel
 

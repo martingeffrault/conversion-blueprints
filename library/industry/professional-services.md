@@ -483,13 +483,14 @@ Questions that help qualify leads:
 
 ## Key Metrics
 
-| Metric | Industry Average | Top Performers |
-|--------|------------------|----------------|
-| Contact form completion | 3-5% | 8%+ |
-| Case study views to contact | 5-8% | 12%+ |
-| RFP response rate | 20-30% | 45%+ |
-| Time on site | 2-3 min | 5+ min |
-| Return visit rate | 15-25% | 40%+ |
+| Metric | Industry Average | Top Performers | Source |
+|--------|------------------|----------------|--------|
+| Contact form CVR | 2.5-4.6% | 10-12%+ | [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/), [Martal](https://martal.ca/conversion-rate-statistics-lb/) |
+| Form to meeting rate | 30% | 66.7% | [Chili Piper](https://www.chilipiper.com/post/form-conversion-rate-benchmark-report) |
+| Paid search CVR | 3.2% | 4.6%+ | [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/) |
+| Landing page CVR | 5-15% | 20%+ | Industry benchmarks |
+
+*Professional services ranks among highest-converting B2B verticals — [Martal Group](https://martal.ca/conversion-rate-statistics-lb/)*
 
 ---
 
