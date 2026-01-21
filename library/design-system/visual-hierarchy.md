@@ -1,7 +1,7 @@
 # Visual Hierarchy
 
 > **Purpose**: Guide user attention through intentional design choices
-> **Impact**: Clear hierarchy reduces cognitive load and increases comprehension by 40%+
+> **Impact**: Clear hierarchy reduces cognitive load and improves comprehension — [HCI.org](https://www.hci.org.uk/article/the-impact-of-visual-hierarchy-in-user-interface-design-a-cognitive-perspective/)
 > **Principle**: If everything is important, nothing is important
 
 ---
