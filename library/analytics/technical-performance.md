@@ -86,6 +86,8 @@ Google's Core Web Vitals are confirmed ranking factors, accounting for approxima
 | Media/News | 5.6s | 2.9s |
 | Travel | 4.9s | 2.4s |
 
+*LCP data from [Chrome UX Report](https://developer.chrome.com/docs/crux/), [web.dev](https://web.dev/articles/lcp). Target: <2.5s.*
+
 ### INP Optimization
 
 **What INP Measures**: Responsiveness to user interactions (clicks, taps, key presses)
@@ -511,6 +513,8 @@ Configure alerts for performance degradation:
 | SaaS | 45-55% | 25% higher trial signup |
 | Media | 30-35% | 40% more pageviews |
 | Finance | 50-60% | 20% more applications |
+
+*CWV pass rates: [Chrome UX Report](https://developer.chrome.com/docs/crux/), [NitroPack](https://nitropack.io/blog/most-important-core-web-vitals-metrics/).*
 
 ---
 
