@@ -2,7 +2,7 @@
 
 > **Purpose**: Convert visitors into leads by offering something valuable in exchange for contact information.
 > **Primary Goal**: Form submissions
-> **Typical Conversion Rate**: 4-5% median, 10-15% for optimized pages
+> **Typical Conversion Rate**: 6.6% average, 10-15%+ for optimized pages — [Unbounce Q4 2024](https://unbounce.com/average-conversion-rates-landing-pages/)
 
 ---
 

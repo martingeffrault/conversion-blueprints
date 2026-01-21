@@ -2,7 +2,7 @@
 
 > **Purpose**: Orient visitors, communicate value, and route them to the right next step
 > **Primary Goals**: Drive trials, demos, or deeper exploration
-> **Typical Conversion Rate**: 3.8% median, 11-24% for top performers
+> **Typical Conversion Rate**: 3.8% median, 11.6%+ for top 25% — [Unbounce SaaS Benchmark](https://unbounce.com/conversion-benchmark-report/saas-conversion-rate/)
 
 ---
 

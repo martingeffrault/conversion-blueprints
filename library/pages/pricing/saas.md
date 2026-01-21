@@ -14,9 +14,9 @@ The pricing page is where deals are won or lost. Visitors here are **high-intent
 2. Remove friction (answer questions before they're asked)
 3. Build confidence (social proof, guarantees, security)
 
-> "70% of SaaS website visitors view the pricing page. It's one of the most visited pages after the homepage."
+> "The pricing page is often the second-most visited page on SaaS websites after the homepage."
 >
-> *Source: Industry benchmark data*
+> *Source: [FastSpring](https://fastspring.com/blog/7-best-saas-pricing-page-examples-plus-5-saas-pricing-strategy-questions-to-consider/), [Systm.co](https://www.systm.co/post/the-best-pricing-pages-do-this)*
 
 ---
 
