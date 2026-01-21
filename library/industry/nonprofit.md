@@ -31,6 +31,8 @@
 | Cash | 4% |
 | Other digital | 13% |
 
+*Data: [M+R Benchmarks 2025](https://www.mrss.com/benchmarks/)*
+
 ### Mobile & Accessibility
 
 | Metric | Value |
@@ -39,6 +41,8 @@
 | Sites abandoned if >3s load | 53% |
 | Sites designed for accessibility | 22% |
 | Sites that faced cyberattacks | 27% |
+
+*Data: [M+R Benchmarks 2025](https://www.mrss.com/benchmarks/)*
 
 ---
 
