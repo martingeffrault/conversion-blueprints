@@ -12,7 +12,7 @@ Numbers are concrete. Claims are vague. "We're great" is forgettable. "10,000+ c
 
 > "Specific numbers are more credible than rounded numbers. '$1.2M saved' outperforms 'millions saved' in trust tests."
 >
-> *Source: Conversion optimization research*
+> *Source: [Columbia Business School research](https://business.columbia.edu/press-release/cbs-press-releases/new-research-shows-asking-precise-not-round-number-during) on precise numbers and perceived knowledge*
 
 ---
 

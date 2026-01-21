@@ -143,7 +143,7 @@ Despite the negative data, carousels can work in specific contexts:
 
 > "After 5 slides, the likelihood of users viewing additional content drops dramatically."
 >
-> *Source: UX research studies*
+> *Source: [Nielsen Norman Group](https://www.nngroup.com/articles/designing-effective-carousels/) carousel usability research*
 
 #### 5. Maintain Consistent Slide Purposes
 

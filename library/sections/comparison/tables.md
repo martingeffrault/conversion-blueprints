@@ -330,7 +330,7 @@ If you must compare more than 5 items:
 
 > "Excessive negatives create a pessimistic impression. Omit features that aren't relevant to lower tiers rather than showing many X marks."
 >
-> *Source: Pricing page UX research*
+> *Source: [CXL Institute](https://cxl.com/blog/pricing-page-best-practices/) pricing page optimization*
 
 **Instead of:**
 ```

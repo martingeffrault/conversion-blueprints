@@ -18,7 +18,7 @@ The CTA is where all your page work pays off. A great page with a weak CTA fails
 
 > "CTAs with action-oriented language (Get, Start, Try) convert up to 90% better than passive language (Submit, Continue)."
 >
-> *Source: CRO industry studies*
+> *Source: [ContentVerve/VWO research](https://wisernotify.com/blog/call-to-action-stats/) on first-person phrasing and action verbs*
 
 ---
 
@@ -61,7 +61,7 @@ The CTA is where all your page work pays off. A great page with a weak CTA fails
 
 > "First-person CTAs ('Start my trial') can outperform second-person ('Start your trial') by 90% in some contexts."
 >
-> *Source: Unbounce research*
+> *Source: [ContentVerve via WiserNotify](https://wisernotify.com/blog/call-to-action-stats/)*
 
 ### What to Avoid
 

@@ -87,7 +87,7 @@ For products with monthly/annual billing.
 
 > "Highlighting the annual discount percentage (e.g., 'Save 20%') next to the toggle increases annual plan selection."
 >
-> *Source: SaaS conversion optimization studies*
+> *Source: [ProfitWell](https://www.profitwell.com/recur/all/annual-vs-monthly-pricing) annual vs monthly pricing research*
 
 **Toggle design**:
 ```
