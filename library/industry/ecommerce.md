@@ -448,6 +448,8 @@ Never show an empty page. Include:
 | Poor search | Lose 43% of visitors | Invest in search UX |
 | No reviews | -15% CVR | Enable reviews everywhere |
 
+*Account creation and shipping data: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate). Site speed data: [Google/Deloitte](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html).*
+
 ---
 
 ## Sources

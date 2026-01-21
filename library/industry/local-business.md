@@ -80,10 +80,12 @@
 
 | Source | Display Pattern | Impact |
 |--------|-----------------|--------|
-| Google Reviews | Stars + count + "View on Google" link | +34% trust |
-| Yelp | Badge embed or star display | +28% trust |
-| Facebook | Star rating with "Recommended" count | +22% trust |
-| Industry-specific | BBB, Angi, Houzz badges | +18% trust |
+| Google Reviews | Stars + count + "View on Google" link | High trust |
+| Yelp | Badge embed or star display | High trust |
+| Facebook | Star rating with "Recommended" count | Moderate trust |
+| Industry-specific | BBB, Angi, Houzz badges | Varies by industry |
+
+*93% of consumers say online reviews impact purchasing decisions — [BrightLocal Local Consumer Review Survey](https://www.brightlocal.com/research/local-consumer-review-survey/).*
 
 **Review Display Best Practices**:
 
@@ -241,6 +243,8 @@
 | + Email | -8% |
 | + Address | -15% |
 | + Detailed description | -22% |
+
+*Impact estimates based on form length research from [HubSpot](https://blog.hubspot.com/marketing/form-length) and [Formstack](https://www.formstack.com/resources/report-form-conversion). Actual impact varies by industry.*
 
 **Best practice**: Start minimal, qualify leads via follow-up.
 
@@ -472,14 +476,16 @@ Display your responses to show engagement:
 
 | Mistake | Impact | Solution |
 |---------|--------|----------|
-| No phone number in header | -40% calls | Always visible, click-to-call |
-| Generic stock photos | -25% trust | Use real business/team photos |
-| No reviews displayed | -35% conversion | Embed Google/Yelp reviews |
-| Hidden pricing | +50% bounce | Show starting prices |
+| No phone number in header | Significant call loss | Always visible, click-to-call |
+| Generic stock photos | Lower trust | Use real business/team photos |
+| No reviews displayed | Lower conversion | Embed Google/Yelp reviews |
+| Hidden pricing | Higher bounce | Show starting prices |
 | No service area info | Lost leads | Clear coverage map |
 | Slow mobile site | -7% per second | Optimize for 3G |
 | No after-hours option | Lost emergency leads | 24/7 answering or booking |
 | Missing local keywords | Poor local SEO | City/neighborhood in content |
+
+*Site speed data: [Google/Deloitte](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html).*
 
 ---
 

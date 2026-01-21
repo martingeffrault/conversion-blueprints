@@ -224,6 +224,8 @@
 | Drone footage | +68% for houses |
 | Floor plans | +52% serious inquiries |
 
+*Photo/video data: [NAR](https://www.nar.realtor/research-and-statistics), [RubyHome](https://www.rubyhome.com/blog/real-estate-photography-stats/), [Matterport](https://matterport.com/blog/why-home-sellers-and-buyers-love-3d-virtual-tours).*
+
 ### Property Information Layout
 
 ```
