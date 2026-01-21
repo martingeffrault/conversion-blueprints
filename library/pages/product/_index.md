@@ -202,6 +202,8 @@ All product/service pages follow this flow:
 | 4 seconds | -18% |
 | 5 seconds | -23% |
 
+*Speed data: [Google/Deloitte](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html).*
+
 ### Core Web Vitals Targets
 
 | Metric | Target |

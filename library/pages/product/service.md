@@ -374,11 +374,13 @@ Prove you deliver results with specific examples.
 
 | Element | Impact |
 |---------|--------|
-| **Real photo** | +34% trust |
+| **Real photo** | Higher trust |
 | **Full name** | Credibility |
 | **Company/title** | Authority |
 | **Location** | Local relevance |
 | **Specific result** | Proof of value |
+
+*Testimonial effectiveness data: [BrightLocal](https://www.brightlocal.com/research/local-consumer-review-survey/).*
 
 ---
 
