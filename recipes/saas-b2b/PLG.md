@@ -224,6 +224,8 @@ Replace gated content with:
 | Time to first value | <10 min | <2 min |
 | Viral coefficient | 0.3-0.5 | 1.0+ |
 
+*PLG benchmarks: [OpenView](https://openviewpartners.com/product-benchmarks/), [Lenny's Newsletter](https://www.lennysnewsletter.com/).*
+
 ---
 
 ## Sources

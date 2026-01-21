@@ -350,6 +350,8 @@ Content about the experience:
 | LTV:CAC | 3:1+ | Subscriptions improve this |
 | Email capture | 5-10% | Pop-up performance |
 
+*DTC benchmarks: [Shopify](https://www.shopify.com/blog/direct-to-consumer), [CB Insights](https://www.cbinsights.com/research/direct-to-consumer-retail-strategies/).*
+
 ---
 
 ## Sources

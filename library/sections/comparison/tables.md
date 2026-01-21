@@ -461,9 +461,11 @@ Mobile view:
 
 | Query Type | Intent | Conversion Rate |
 |------------|--------|-----------------|
-| "[Product] vs [Competitor]" | Comparison | 3-5x higher |
-| "Best [category] software" | Research | 2x higher |
-| "[Competitor] alternative" | Switching | 4-5x higher |
+| "[Product] vs [Competitor]" | Comparison | Higher than average |
+| "Best [category] software" | Research | Above average |
+| "[Competitor] alternative" | Switching | Highest intent |
+
+*Commercial investigation queries convert significantly higher than informational queries — [Grow and Convert](https://www.growandconvert.com/conversion-rate-optimization/average-seo-conversion-rate/).*
 
 ### Fair Comparison Guidelines
 
