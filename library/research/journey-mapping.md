@@ -35,11 +35,13 @@ A buyer journey map visualizes the path customers take from first becoming aware
 | Aspect | B2B | B2C |
 |--------|-----|-----|
 | **Timeline** | Weeks to months (12+ months for enterprise) | Minutes to days |
-| **Decision makers** | 7.4 average | 1-2 |
-| **Research depth** | Extensive | Variable |
+| **Decision makers** | 6-10 average (up to 16 for complex solutions) | 1-2 |
+| **Research depth** | Extensive (4-5 sources per stakeholder) | Variable |
 | **Touchpoints** | Many, online and offline | Fewer, often digital |
 | **Drivers** | ROI, risk reduction | Emotion, convenience |
 | **Process** | Pre-defined, formal | Spontaneous, personal |
+
+*Decision makers data: [Gartner B2B Buying Journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey)*
 
 > "B2B purchases involve multiple decision-makers, longer sales cycles, and a need for rational justification, while B2C purchases are often driven by emotion and quick decisions."
 >

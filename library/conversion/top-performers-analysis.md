@@ -141,7 +141,7 @@ Stripe consistently ranks as the best SaaS website. Here's their formula:
 **Statistics**:
 - 5-7 top-level items maximum
 - 55% of marketing sites put contact in header
-- Mega menus increase engagement by 37% vs. dropdowns
+- Comprehensive social proof strategies: median +37% lift — [Genesys Growth](https://genesysgrowth.com/blog/social-proof-conversion-stats-for-marketing-leaders)
 
 ### Minimal Navigation (Modern SaaS)
 
@@ -213,9 +213,9 @@ Stripe consistently ranks as the best SaaS website. Here's their formula:
 ```
 
 **Statistics**:
-- Logo clouds increase trust by 22%
-- 5-8 logos optimal (more seems cluttered)
-- Include recognizable brands
+- Client logos: up to +69% conversion in A/B tests — [CrazyEgg](https://www.crazyegg.com/blog/trust-signals/)
+- 5-8 logos optimal (more seems cluttered) — [CXL via KlientBoost](https://www.klientboost.com/landing-pages/landing-page-testimonials/)
+- Include recognizable brands for instant credibility
 
 ### Pattern 2: Testimonial Cards (Services)
 
@@ -232,9 +232,9 @@ Stripe consistently ranks as the best SaaS website. Here's their formula:
 ```
 
 **Statistics**:
-- Photo + name + title = +34% credibility
-- Video testimonials = +80% CVR
-- Star ratings = +270% CVR (5+ reviews displayed)
+- Testimonials on sales pages: +34% CVR on average — [WiserNotify](https://wisernotify.com/blog/testimonial-stats/)
+- Video testimonials: up to +80% CVR — [WiserNotify](https://wisernotify.com/blog/video-testimonial-stats/)
+- 5+ reviews displayed: +270% purchase likelihood — [WiserReview](https://wiserreview.com/blog/testimonial-statistics/)
 
 ### Pattern 3: Metrics/Results (Case Studies)
 
@@ -252,8 +252,8 @@ Stripe consistently ranks as the best SaaS website. Here's their formula:
 ```
 
 **Statistics**:
-- Specific numbers outperform vague claims by 42%
-- Case studies with metrics = +62% engagement
+- Specific numbers outperform vague claims — "30% faster" beats "quick" — [Let's Highlight](https://www.letshighlight.com/blog/how-to-create-effective-marketing-claims)
+- Case studies with quantifiable results are significantly more persuasive — [Uplift Content](https://www.upliftcontent.com/blog/case-study-metrics/)
 
 ---
 

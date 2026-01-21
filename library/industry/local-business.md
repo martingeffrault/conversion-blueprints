@@ -175,9 +175,11 @@
 | Hidden pricing | Premium/custom | "Request Quote" |
 
 **Pricing Transparency Impact**:
-- Showing prices: +23% conversion
-- "Free estimates": +18% form completions
-- Price matching guarantee: +15% trust
+- Showing prices builds trust and reduces friction — [TrafficSoda](https://www.trafficsoda.com/price-transparency-benefits/)
+- "Free estimates" reduces barriers for high-ticket services
+- Price ranges/starting prices give context without full disclosure — [4Pricing](https://www.4pricing.pro/blog/pricing-transparency-website)
+
+*Transparency enables faster conversions by helping customers self-qualify — [Omnia Retail](https://www.omniaretail.com/blog/how-e-commerce-brands-and-retailers-are-building-trust-with-transparent-pricing)*
 
 ---
 
