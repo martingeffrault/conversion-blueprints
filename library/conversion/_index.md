@@ -68,6 +68,8 @@ Conversion = Motivation × Ability × Trigger
 | 1s faster load time | +8.4% CVR |
 | Multi-step forms | +86% CVR |
 
+*Impact data: [HubSpot](https://blog.hubspot.com/marketing/personalized-calls-to-action-convert-better-data), [WPForms](https://wpforms.com/online-form-statistics-facts/), [WiserNotify](https://wisernotify.com/blog/social-proof-statistics/).*
+
 ### The Trust Stack
 
 Every high-converting page includes:

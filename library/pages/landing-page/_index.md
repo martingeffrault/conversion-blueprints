@@ -240,6 +240,8 @@ The landing page must match the source that brought the visitor:
 | Squeeze Page | 20-30% | 40% | 50%+ |
 | App Download | 10-15% | 25% | 35%+ |
 
+*Benchmarks: [Unbounce](https://unbounce.com/conversion-benchmark-report/), [WordStream](https://www.wordstream.com/blog/ws/2014/03/17/what-is-a-good-conversion-rate).*
+
 ---
 
 ## Common Mistakes

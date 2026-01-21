@@ -187,7 +187,7 @@ Visitors have limited attention. Front-load the most important information:
 | E-commerce Product | 2.5% | 5.3% | 8.0% |
 | Pricing Page | 5.0% | 10.0% | 15.0% |
 
-*Note: Rates vary significantly by industry, traffic source, and offer.*
+*Data: [Unbounce](https://unbounce.com/conversion-benchmark-report/), [First Page Sage](https://firstpagesage.com/seo-blog/b2b-saas-funnel-conversion-benchmarks-fc/). Rates vary by industry, traffic source, and offer.*
 
 ---
 
