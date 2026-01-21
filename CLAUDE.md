@@ -130,7 +130,7 @@ to my product page implementation"
 | Metric | Average | Good | Excellent | Source |
 |--------|---------|------|-----------|--------|
 | Landing Page CVR | 2.35% | 5.31% | 11.45%+ | Unbounce |
-| E-commerce Product CVR | 1.88% | 3-5% | 8%+ | Various |
+| E-commerce Product CVR | 1.88% | 3-5% | 8%+ | Shopify |
 | SaaS Free Trial CVR | 1.1% | 3-5% | 10%+ | OpenView |
 | Form Completion | 47% | 60% | 80%+ | Formstack |
 
