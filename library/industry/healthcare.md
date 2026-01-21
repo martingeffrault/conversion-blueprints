@@ -456,13 +456,13 @@ Healthcare sites have heightened accessibility obligations.
 
 ### Healthcare-Specific Metrics
 
-| Metric | Average | Top Performers |
-|--------|---------|----------------|
-| Appointment completion | 45% | 65%+ |
-| Patient portal adoption | 30% | 60%+ |
-| Online scheduling rate | 25% | 50%+ |
-| Telehealth utilization | 20% | 40%+ |
-| Form completion | 60% | 80%+ |
+| Metric | Average | Top Performers | Source |
+|--------|---------|----------------|--------|
+| Website visitor conversion | 3-4% | 20%+ | [First Page Sage](https://firstpagesage.com/reports/patient-conversion-rate-by-practice-type/) |
+| Landing page conversion | 7.4% | 20.4% (top 25%) | [First Page Sage](https://firstpagesage.com/reports/patient-conversion-rate-by-practice-type/) |
+| Online scheduling adoption | 32% | 65%+ new patients | [Business Wire](https://www.businesswire.com/news/home/20250225589745/en/New-Data-Indicates-Industry-wide-Surge-in-Patient-Self-Scheduling-Adoption) |
+| Telehealth utilization | 54% (consumer) | 71.4% (physician) | [HHS.gov](https://telehealth.hhs.gov/research-trends), [AMA](https://www.ama-assn.org/practice-management/digital-health/new-data-details-how-telehealth-use-varies-physician-specialty) |
+| No-show reduction with self-scheduling | 50% decrease | — | [Business Wire](https://www.businesswire.com/news/home/20250225589745/en/) |
 
 ---
 

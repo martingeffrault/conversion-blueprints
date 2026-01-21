@@ -507,13 +507,13 @@
 
 ## Key Metrics
 
-| Metric | Restaurant Avg | Top Performers |
-|--------|----------------|----------------|
-| Reservation conversion | 15-25% | 35%+ |
-| Online order conversion | 8-15% | 20%+ |
-| Mobile traffic share | 65-75% | 80%+ |
-| Menu page engagement | 2-4 min | 5+ min |
-| Repeat visit rate | 20-30% | 50%+ |
+| Metric | Restaurant Avg | Top Performers | Source |
+|--------|----------------|----------------|--------|
+| Landing page conversion | 18.2% | — | [Unbounce](https://unbounce.com/conversion-benchmark-report/) |
+| PPC to reservation | 6-12% | — | [CuFinder](https://cufinder.io/blog/benchmarks/restaurants/) |
+| Booking conversion rate | ~3% | 19%+ with online booking | [NowBookIt](https://www.nowbookit.com/hospitality/restaurant-booking-statistics/) |
+| Mobile traffic share | 59-78% | 80%+ | [Toast](https://pos.toasttab.com/blog/data/restaurant-wait-times-and-reservations-data), [CuFinder](https://cufinder.io/blog/benchmarks/restaurants/) |
+| Online order check increase | +20-26% | +30% takeout profit | [Deloitte via Lightspeed](https://www.lightspeedhq.com/blog/online-ordering-statistics/) |
 
 ---
 
