@@ -106,31 +106,32 @@ This blueprints library is a collection of proven frameworks, patterns, and temp
 
 ### Page Performance
 
-| Metric | Average | Good | Excellent |
-|--------|---------|------|-----------|
-| Landing Page CVR | 2.35% | 5.31% | 11.45%+ |
-| E-commerce Product CVR | 1.88% | 3-5% | 8%+ |
-| SaaS Free Trial CVR | 1.1% | 3-5% | 10%+ |
-| Form Completion Rate | 47% | 60% | 80%+ |
+| Metric | Average | Good | Excellent | Source |
+|--------|---------|------|-----------|--------|
+| Landing Page CVR | 6.6% | 8-10% | 11.4%+ | [Unbounce Q4 2024](https://unbounce.com/average-conversion-rates-landing-pages/) |
+| E-commerce Product CVR | 2-3% | 3-4% | 5%+ | [Shopify](https://www.shopify.com/blog/ecommerce-conversion-rate) |
+| SaaS Trial Signup | 2-5% | 5-8% | 10%+ | [First Page Sage](https://firstpagesage.com/seo-blog/saas-free-trial-conversion-rate-benchmarks/) |
+| Trial to Paid | 18-25% | 30-40% | 50%+ | [Userpilot](https://userpilot.com/blog/saas-average-conversion-rate/) |
+| Form Completion | 45-66% | 70% | 80%+ | [Zuko](https://www.zuko.io/benchmarking/industry-benchmarking) |
 
 ### Testing Impact
 
-| Element | Typical Lift |
-|---------|--------------|
-| Headline changes | 10-30% |
-| CTA optimization | 5-20% |
-| Form reduction | 10-30% |
-| Social proof | 5-15% |
-| Page speed | 7% per second |
+| Element | Typical Lift | Source |
+|---------|--------------|--------|
+| Headline changes | 10-30% | Industry testing |
+| CTA optimization | 5-20% | Industry testing |
+| Form field reduction | Up to 120% | [HubSpot](https://blog.hubspot.com/marketing/form-length) |
+| Social proof | 5-15% | Industry testing |
+| Page speed (+1s delay) | -7% conversions | [Akamai](https://www.cloudflare.com/learning/performance/more/website-performance-conversion-rates/) |
 
 ### User Behavior
 
-| Insight | Data |
-|---------|------|
-| Above-fold attention | 80% of viewing time |
-| F-pattern reading | Dominant on text pages |
-| Decision time | 50ms for first impression |
-| Mobile share | 60%+ of web traffic |
+| Insight | Data | Source |
+|---------|------|--------|
+| Above-fold attention | 80% of viewing time | [Nielsen Norman Group](https://www.nngroup.com/articles/scrolling-and-attention/) |
+| F-pattern reading | Dominant on text pages | [Nielsen Norman Group](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) |
+| First impression decision | 50ms | [Carleton University Study](https://www.tandfonline.com/doi/abs/10.1080/01449290500330448) |
+| Mobile traffic share | ~60% globally | [Statista](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/) |
 
 ---
 

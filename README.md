@@ -111,19 +111,20 @@ conversion-blueprints/
 
 ## Key Benchmarks Included
 
-| Metric | Average | Top 10% |
-|--------|---------|---------|
-| Landing Page CVR | 2.35% | 11.45% |
-| E-commerce Product CVR | 1.88% | 8%+ |
-| SaaS Free Trial CVR | 1.1% | 10%+ |
-| Form Completion | 47% | 80%+ |
+| Metric | Average | Top Performers | Source |
+|--------|---------|----------------|--------|
+| Landing Page CVR | 6.6% | 11.4%+ | [Unbounce Q4 2024](https://unbounce.com/average-conversion-rates-landing-pages/) |
+| E-commerce Product CVR | 2-3% | 4-6%+ | [Shopify](https://www.shopify.com/blog/ecommerce-conversion-rate) |
+| SaaS Free Trial Signup | 2-5% | 10%+ | [First Page Sage](https://firstpagesage.com/seo-blog/saas-free-trial-conversion-rate-benchmarks/) |
+| Trial to Paid CVR | 18-25% | 40%+ | [Userpilot](https://userpilot.com/blog/saas-average-conversion-rate/) |
+| Form Completion | 45-66% | 75%+ | [Zuko](https://www.zuko.io/benchmarking/industry-benchmarking) |
 
-| Optimization | Typical Impact |
-|--------------|----------------|
-| Headline changes | 10-30% lift |
-| CTA optimization | 5-20% lift |
-| Form field reduction | 10-30% lift |
-| Page speed (+1s) | -7% conversions |
+| Optimization | Typical Impact | Source |
+|--------------|----------------|--------|
+| Headline changes | 10-30% lift | Industry testing data |
+| CTA optimization | 5-20% lift | Industry testing data |
+| Form field reduction | Up to 120% lift | [HubSpot](https://blog.hubspot.com/marketing/form-length) |
+| Page speed (+1s delay) | -7% conversions | [Akamai/Cloudflare](https://www.cloudflare.com/learning/performance/more/website-performance-conversion-rates/) |
 
 ---
 

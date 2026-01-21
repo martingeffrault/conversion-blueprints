@@ -53,13 +53,13 @@ Content creators, membership platforms, and digital products. Subscription prici
 
 ### Universal Patterns (All Industries)
 
-| Pattern | Why It Works |
-|---------|--------------|
-| Clear value proposition | Visitors decide in 3-5 seconds |
-| Trust signals above fold | Reduces anxiety, increases engagement |
-| Single primary CTA | Decision paralysis kills conversions |
-| Mobile-first design | 60-70% of traffic is mobile |
-| Fast load times | Each second = ~7% conversion drop |
+| Pattern | Why It Works | Source |
+|---------|--------------|--------|
+| Clear value proposition | Visitors decide in 3-5 seconds | [ContentGrip](https://www.contentgrip.com/website-first-impressions-5-seconds/) |
+| Trust signals above fold | Reduces anxiety, increases engagement | — |
+| Single primary CTA | Decision paralysis kills conversions | — |
+| Mobile-first design | ~60% of traffic is mobile globally | [Statista](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/) |
+| Fast load times | Each second delay = ~7% conversion drop | [Akamai via Cloudflare](https://www.cloudflare.com/learning/performance/more/website-performance-conversion-rates/)
 
 ### Industry Trust Signals
 
@@ -107,3 +107,12 @@ All industry guides are based on analysis of:
 - Industry benchmark reports (specific to each sector)
 - User research and behavioral studies
 - A/B test data from industry publications
+
+---
+
+## Sources
+
+- Mobile traffic data: [Statista Global Mobile Traffic](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/)
+- Page speed impact: [Cloudflare Performance Guide](https://www.cloudflare.com/learning/performance/more/website-performance-conversion-rates/)
+- First impressions research: [Carleton University study on visual appeal](https://www.tandfonline.com/doi/abs/10.1080/01449290500330448)
+- 5-second decision: [ContentGrip](https://www.contentgrip.com/website-first-impressions-5-seconds/)

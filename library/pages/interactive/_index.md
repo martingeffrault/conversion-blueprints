@@ -1,7 +1,7 @@
 # Interactive Page Blueprints
 
 > **Purpose**: High-converting interactive experiences that engage users and capture leads
-> **Conversion benchmark**: 20-40% lead capture rates (3-4x traditional lead magnets)
+> **Conversion benchmark**: 20-40% lead capture rates (3-4x traditional lead magnets) — [Outgrow](https://outgrow.co/blog/interactive-forms-lead-generation-2025/)
 
 ---
 
@@ -12,9 +12,9 @@
 Interactive quizzes for lead generation, segmentation, and product recommendations.
 
 **Key stats**:
-- 40.1% start-to-lead conversion rate
-- 3-4x better than traditional lead magnets
-- 65% quiz completion rate
+- 40.1% start-to-lead conversion rate — [Interact Quiz Conversion Report](https://www.tryinteract.com/blog/quiz-conversion-rate-report/)
+- 3-4x better than traditional lead magnets (vs. 10-20% for ebooks/checklists) — [Kyleads](https://www.kyleads.com/blog/quiz-funnels-vs-lead-magnets/)
+- 65% quiz completion rate (start to finish) — [Interact](https://www.tryinteract.com/blog/quiz-conversion-rate-report/)
 
 **Best for**: Top-of-funnel lead gen, audience segmentation, product recommendations
 
@@ -23,9 +23,9 @@ Interactive quizzes for lead generation, segmentation, and product recommendatio
 Interactive calculators that provide personalized value and qualify leads.
 
 **Key stats**:
-- 20-30% lead capture rate
-- High-intent, bottom-of-funnel leads
-- Strong SEO value for "[X] calculator" queries
+- 20-60% lead capture rate depending on gating strategy — [Outgrow](https://outgrow.co/blog/interactive-calculators-lead-generation-conversion)
+- 28% average conversion lift on landing pages with calculators — [Outgrow](https://outgrow.co/blog/courses/lead-generation-with-calculators/)
+- 12% higher sales conversion for calculator-sourced leads — [Outgrow](https://outgrow.co/blog/courses/lead-generation-with-calculators/)
 
 **Best for**: ROI justification, pricing estimation, lead qualification
 
