@@ -23,8 +23,12 @@ When this command is invoked:
 1. **Search the knowledge base** for relevant benchmarks:
    - `library/_index.md` for general benchmarks
    - `library/industry/[industry].md` for industry-specific
+   - `library/analytics/kpis-by-business.md` for KPIs by business type
+   - `library/analytics/advanced-analytics.md` for attribution, retention, CLV
+   - `library/analytics/technical-performance.md` for Core Web Vitals
    - `library/pages/*/` for page-type benchmarks
-   - `library/conversion/` for conversion metrics
+   - `library/conversion/benchmarks.md` for conversion metrics
+   - `library/conversion/micro-conversions.md` for funnel metrics
 
 2. **Return a structured response** with:
    - Metric name and definition
@@ -44,4 +48,10 @@ When this command is invoked:
 - `time-on-page` - Average time on page
 
 ## Industries
-- `saas`, `ecommerce`, `healthcare`, `finance`, `real-estate`, `restaurants`, `media`, `professional-services`, `b2b-enterprise`
+- `saas`, `ecommerce`, `healthcare`, `finance`, `real-estate`, `restaurants`, `media`, `professional-services`, `b2b-enterprise`, `nonprofit`, `education`, `creator-economy`, `local-business`, `crypto-web3`
+
+## Analytics Metrics
+- `core-web-vitals` - LCP, CLS, INP benchmarks
+- `retention` - Industry retention rates
+- `clv-cac` - Customer lifetime value to CAC ratio
+- `attribution` - Multi-touch attribution stats

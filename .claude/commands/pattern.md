@@ -59,7 +59,10 @@ When this command is invoked:
 - `hero`, `cta`, `social-proof`, `testimonials`, `features`, `pricing`, `faq`, `stats`, `navigation`, `footer`, `carousel`
 
 ### Conversion
-- `form-optimization`, `hero-patterns`, `cta-patterns`, `behavioral-economics`, `micro-conversions`
+- `form-optimization`, `hero-patterns`, `cta-patterns`, `behavioral-economics`, `micro-conversions`, `pricing-patterns`, `social-proof-patterns`, `mobile-first`
+
+### Analytics
+- `kpis-by-business`, `attribution`, `cohort-analysis`, `core-web-vitals`, `technical-performance`
 
 ### Frameworks
-- `lift`, `meclabs`, `aida`, `pas`, `jtbd`, `value-proposition`
+- `lift`, `meclabs`, `aida`, `pas`, `jtbd`, `value-proposition`, `spin-selling`, `bab`, `fab`

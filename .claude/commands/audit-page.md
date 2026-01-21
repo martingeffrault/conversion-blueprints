@@ -30,7 +30,8 @@ When this command is invoked:
    - Trust signals and social proof
    - Form optimization (if applicable)
    - Mobile considerations
-   - Page speed factors
+   - Core Web Vitals (LCP <2.5s, CLS <0.1, INP <200ms)
+   - Page speed factors (see `library/analytics/technical-performance.md`)
 
 4. **Output a structured audit** with:
    - Score or grade (optional)
