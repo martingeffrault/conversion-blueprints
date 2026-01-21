@@ -72,6 +72,10 @@ Download the ZIP and keep it as a local reference library.
 
 ```
 conversion-blueprints/
+├── .claude/                # Claude Code integration
+│   ├── commands/           # Custom slash commands
+│   └── settings.json       # Claude Code config
+├── CLAUDE.md               # AI context reference
 ├── library/                # Knowledge base
 │   ├── frameworks/         # CRO methodologies (LIFT, MECLABS, PAS, AIDA)
 │   ├── research/           # Customer research, competitive analysis
@@ -151,6 +155,35 @@ When building a new site:
 ### As a Team Resource
 
 Share with your team as a single source of truth for conversion best practices.
+
+---
+
+## Claude Code Integration
+
+This repo includes built-in commands for [Claude Code](https://claude.ai/code) users.
+
+### Available Commands
+
+| Command | Description | Example |
+|---------|-------------|---------|
+| `/audit-page` | Audit a page against best practices | `/audit-page landing-page https://example.com` |
+| `/benchmark` | Get conversion benchmarks | `/benchmark saas` |
+| `/checklist` | Generate a build checklist | `/checklist pricing ecommerce` |
+| `/pattern` | Explain a conversion pattern | `/pattern hero` |
+
+### Quick Start
+
+```bash
+# Clone the repo
+git clone https://github.com/martingeffrault/conversion-blueprints.git
+cd conversion-blueprints
+
+# Commands are auto-available in Claude Code
+/benchmark trial-to-paid
+/checklist homepage saas
+```
+
+See [.claude/README.md](.claude/README.md) for full documentation.
 
 ---
 

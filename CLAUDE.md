@@ -223,6 +223,39 @@ This library prioritizes research from:
 
 ---
 
+## Claude Code Integration
+
+This repo includes built-in Claude Code commands for intelligent interaction with the knowledge base.
+
+### Available Commands
+
+| Command | Purpose | Example |
+|---------|---------|---------|
+| `/audit-page` | Audit a page against best practices | `/audit-page landing-page https://example.com` |
+| `/benchmark` | Get conversion benchmarks with sources | `/benchmark saas` or `/benchmark form-completion` |
+| `/checklist` | Generate build/review checklist | `/checklist homepage ecommerce` |
+| `/pattern` | Find and explain a pattern | `/pattern hero` or `/pattern social-proof` |
+
+### Quick Examples
+
+```
+# Audit your landing page
+/audit-page landing-page "B2B SaaS signup with hero and pricing"
+
+# Get industry benchmarks
+/benchmark trial-to-paid
+
+# Generate a build checklist
+/checklist pricing saas
+
+# Understand a pattern
+/pattern cta
+```
+
+See `.claude/README.md` for full documentation.
+
+---
+
 ## Multi-Project Usage
 
 This repo is designed to be:
@@ -238,7 +271,10 @@ This repo is designed to be:
 # Clone as submodule or reference
 git clone https://github.com/martingeffrault/conversion-blueprints.git
 
-# Reference in AI prompts
+# Open in Claude Code - commands are auto-available
+cd conversion-blueprints
+
+# Or reference in AI prompts
 "Using conversion-blueprints/library/sections/hero/ as reference,
 build a value proposition hero for my SaaS product"
 ```
