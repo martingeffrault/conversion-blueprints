@@ -92,12 +92,12 @@ Loss aversion is one of the most powerful forces in decision-making.
 
 ### Conversion Statistics
 
-| Tactic | Conversion Impact |
-|--------|-------------------|
-| Free trial (ownership effect) | +30-50% paid conversion |
-| "Don't miss" framing vs "Get" | +40-60% CTR |
-| Cart expiration warning | +15-25% recovery |
-| Loss-framed headlines | +20-30% engagement |
+| Tactic | Conversion Impact | Source |
+|--------|-------------------|--------|
+| Free trial (ownership effect) | Up to +66% B2B conversion | [Togai](https://www.togai.com/blog/increasing-saas-free-trial-conversion-rate/) |
+| Loss-framed pricing | Up to +32% CVR | [Journal of Marketing Research via Invesp](https://www.invespcro.com/blog/13-loss-aversion-marketing-strategies-to-increase-conversions/) |
+| Reverse trial (premium first) | +10-40% freemium→paid | [Userpilot](https://userpilot.com/blog/saas-reverse-trial/) |
+| 30-day trial vs free product | 28x more effective | [App Developer Magazine](https://appdevelopermagazine.com/free-trials-have-high-customer-conversion-rate/)
 
 **Implementation patterns**:
 

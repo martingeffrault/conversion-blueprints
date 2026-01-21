@@ -182,17 +182,16 @@ Engagement signals that indicate interest.
 
 ### E-commerce Benchmarks
 
-> "The average Add-to-Cart (ATC) rate is about 7.52%."
+> "The average Add-to-Cart (ATC) rate is about 6-8% globally."
 >
-> *Source: [Smart Insights](https://www.smartinsights.com/ecommerce/ecommerce-analytics/ecommerce-conversion-rates/)*
+> *Source: [Dynamic Yield](https://marketing.dynamicyield.com/benchmarks/add-to-cart-rate/), [Smart Insights](https://www.smartinsights.com/ecommerce/ecommerce-analytics/ecommerce-conversion-rates/)*
 
-| Micro-Conversion | Average | Good | Excellent |
-|------------------|---------|------|-----------|
-| Product page view rate | 45-50% | 55%+ | 65%+ |
-| Add to cart rate | 7-8% | 10-12% | 15%+ |
-| Cart to checkout rate | 50-60% | 65%+ | 75%+ |
-| Checkout completion | 45-50% | 55%+ | 70%+ |
-| **Overall CVR** | 2.5-3% | 3-5% | 5%+ |
+| Micro-Conversion | Average | Good | Excellent | Source |
+|------------------|---------|------|-----------|--------|
+| Product page view rate | ~50% | 55%+ | 65%+ | [Dynamic Yield](https://marketing.dynamicyield.com/benchmarks/) |
+| Add to cart rate | 6-8% | 10-12% | 15%+ | [Dynamic Yield](https://marketing.dynamicyield.com/benchmarks/add-to-cart-rate/) |
+| Cart abandonment | ~70% | 60% | <55% | [Dynamic Yield](https://marketing.dynamicyield.com/benchmarks/) |
+| **Overall CVR** | 2-3% | 3-4% | 5%+ | [Smart Insights](https://www.smartinsights.com/ecommerce/ecommerce-analytics/ecommerce-conversion-rates/)
 
 ### SaaS Benchmarks
 
@@ -211,13 +210,15 @@ Engagement signals that indicate interest.
 
 ### Lead Generation Benchmarks
 
-| Micro-Conversion | Average | Good | Excellent |
-|------------------|---------|------|-----------|
-| Scroll past fold | 60-70% | 75%+ | 85%+ |
-| CTA click rate | 2-5% | 5-10% | 10%+ |
-| Form start rate | 40-50% | 60%+ | 75%+ |
-| Form completion rate | 70-80% | 85%+ | 95%+ |
-| **Overall form CVR** | 2-5% | 5-10% | 15%+ |
+| Micro-Conversion | Average | Good | Excellent | Source |
+|------------------|---------|------|-----------|--------|
+| Form completion rate | 67% | 75%+ | 85%+ | [Zuko Analytics](https://www.zuko.io/benchmarking) |
+| Contact form submit | ~9% | 12%+ | 20%+ | [FormStory](https://formstory.io/learn/form-statistics/) |
+| CTA click rate | 2-3% | 4-5% | 10%+ | [WordStream](https://www.wordstream.com/blog/ws/2021/02/04/call-to-action-statistics), [HubSpot](https://blog.hubspot.com/) |
+| Landing page CVR | 5-15% | 15%+ | 25%+ | [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/) |
+| Website form CVR | 2-3% | 3-5% | 6%+ | [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/) |
+
+*Note: Multi-step forms convert 86% higher than single-step — [WPForms](https://wpforms.com/online-form-statistics-facts/)*
 
 ---
 

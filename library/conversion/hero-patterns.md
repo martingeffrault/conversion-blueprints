@@ -256,8 +256,8 @@ Examples:
 | Background loop | Ambiance | Lifestyle brands |
 
 **Video statistics**:
-- Explainer video on landing page: +80% CVR
-- Video CTA: +380% clicks
+- Explainer video on landing page: up to +80-86% CVR — [EyeView via Saleslion](https://saleslion.io/sales-statistics/using-video-on-landing-pages-can-increase-conversion-by-80/)
+- Video CTA: +380% clicks vs sidebar CTAs — [Wistia via Firework](https://firework.com/blog/impact-video-content-landing-page-conversion-rates)
 - Auto-play requirement: MUST be muted
 
 ### Illustrations
