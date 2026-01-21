@@ -245,6 +245,8 @@ Recovery: [Cart abandonment tactics]
 | Travel/Hospitality | 78-82% |
 | Average | ~70% |
 
+*Abandonment data: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate).*
+
 ---
 
 ## Analysis Process

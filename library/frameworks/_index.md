@@ -160,7 +160,7 @@ Frameworks are now embedded in AI tools like Buffer AI, Notion AI, and Yoast SEO
 ### Attention Scarcity
 > 58.5% of Google searches in 2024 ended without a single external click. Attention must be captured before the click — in the search snippet, headline, or first line.
 >
-> *Source: SparkToro + Semrush Study 2024*
+> *Source: [SparkToro/Semrush Zero-Click Study 2024](https://sparktoro.com/blog/new-2024-research-58-of-google-searches-end-without-a-click/)*
 
 ### Authenticity Over Manipulation
 Modern audiences detect formulaic copy. The best implementations feel natural, not templated. Focus on understanding your audience deeply, then use frameworks as guides, not scripts.
