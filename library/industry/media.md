@@ -293,14 +293,14 @@
 
 ### Conversion Optimization
 
-| Tactic | Impact |
-|--------|--------|
-| Show meter count | +23% conversion |
-| Annual discount prominent | +35% annual vs monthly |
-| Social proof (subscriber count) | +18% conversion |
-| Free trial offer | +45% initial conversion |
-| Gift option | +12% holiday conversions |
-| Student/educator discount | +8% new subscribers |
+| Tactic | Impact | Source |
+|--------|--------|--------|
+| Dynamic paywall (vs. static) | 2x subscription rates | [TwinTone](https://www.twintone.ai/twintone/paywall-trends-insights-2025-data) |
+| Personalized paywall (user name) | +17% conversion | [Nami ML](https://www.nami.ml/blog/paywall-performance-key-metrics-to-drive-revenue-and-growth) |
+| Animated paywall (vs. static) | 2.9x conversion | [Business of Apps via Nami](https://www.nami.ml/blog/paywall-performance-key-metrics-to-drive-revenue-and-growth) |
+| Discount visibility prominent | Up to +20% uplift | [RevenueCat](https://www.revenuecat.com/blog/growth/paywall-conversion-boosters/) |
+| UX/micro-interactions | Up to +20% uplift | [Nami ML](https://www.nami.ml/blog/paywall-performance-key-metrics-to-drive-revenue-and-growth) |
+| Higher paywall intercept rate | 2.1x hit rate YoY | [INMA](https://www.inma.org/blogs/value-content/post.cfm/research-paywall-intercept-rates-yield-insight-on-revenue-optimisation)
 
 ---
 
@@ -308,14 +308,16 @@
 
 ### Signup Placements
 
-| Placement | Conversion Rate | Notes |
-|-----------|-----------------|-------|
-| Inline (mid-article) | 2-4% | Context-relevant |
-| End of article | 1-3% | Engaged readers |
-| Sticky footer bar | 0.5-1% | Non-intrusive |
-| Exit intent popup | 2-5% | Can be annoying |
-| Homepage hero | 3-6% | First-time visitors |
-| Dedicated page | 5-10% | Motivated visitors |
+| Placement | Conversion Rate | Source |
+|-----------|-----------------|--------|
+| Exit-intent popup | 2.8-17% | [Popupsmart](https://popupsmart.com/blog/popup-conversion-benchmark-report), [OptiMonk](https://www.optimonk.com/popup-statistics/) |
+| Fullscreen/welcome mat | 6-14% (top performers) | [Popupsmart](https://popupsmart.com/blog/popup-conversion-benchmark-report) |
+| Gamified popup (spin-to-win) | 13% avg | [Popupsmart](https://popupsmart.com/blog/popup-conversion-benchmark-report) |
+| Email popup (with incentive) | 7-8% | [Wisepops](https://wisepops.com/blog/popup-stats) |
+| Email popup (no incentive) | 5% | [Wisepops](https://wisepops.com/blog/popup-stats) |
+| Inline content upgrade | Best for engagement | [BDOW](https://bdow.com/stories/email-signup-benchmarks/) |
+
+Average popup CVR: 11% | Top 10%: 42% — [OptiMonk](https://www.optimonk.com/popup-statistics/)
 
 ### High-Converting Signup Form
 

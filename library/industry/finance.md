@@ -462,13 +462,15 @@ Financial services require maximum trust. Security is non-negotiable.
 
 ## Key Metrics
 
-| Metric | Industry Average | Top Performers |
-|--------|------------------|----------------|
-| Account open completion | 35-50% | 70%+ |
-| Calculator-to-application | 5-10% | 15%+ |
-| Mobile app adoption | 50-65% | 80%+ |
-| Login success rate | 90-95% | 99%+ |
-| Support ticket resolution | 24-48 hours | <4 hours |
+| Metric | Industry Average | Top Performers | Source |
+|--------|------------------|----------------|--------|
+| Account open completion | 45-49% (51%+ abandonment) | 90%+ (<10% abandonment) | [MX](https://www.mx.com/blog/account-opening-stats/), [The Financial Brand](https://thefinancialbrand.com/news/bank-onboarding/online-mobile-digital-checking-account-opening-trends-101281) |
+| Digital friction impact | 48% switch banks | — | [MX](https://www.mx.com/blog/account-opening-stats/) |
+| Mobile banking adoption | 89% (US) | 91%+ projected | [MX](https://www.mx.com/blog/mobile-banking-stats/) |
+| Fintech adoption | 64% global, 74% US | 85-90% (Nordics, China) | [Statista](https://www.statista.com/statistics/1331176/fintech-adoption-rate/), [CoinLaw](https://coinlaw.io/fintech-adoption-statistics/) |
+| Daily app engagement | 45% | — | [Storyly](https://www.storyly.io/post/10-statistics-mobile-banking-finance-app) |
+
+**Key insight**: Applications taking >5 min see up to 40% higher abandonment — [The Financial Brand](https://thefinancialbrand.com/news/bank-onboarding/improved-digital-account-opening-should-be-top-priority-for-2023-154854)
 
 ---
 
