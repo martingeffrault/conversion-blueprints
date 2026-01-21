@@ -26,6 +26,8 @@ Basic analytics answer **what** happened. Advanced analytics answer **why** it h
 | Retention +5% impact on profit | 25-95% increase |
 | Privacy regulation impact on attribution | 56% say it's harder |
 
+*Attribution data: [Marketing LTB](https://marketingltb.com/blog/statistics/marketing-attribution-statistics/), [Ruler Analytics](https://www.ruleranalytics.com/blog/click-attribution/multi-touch-attribution/).*
+
 ---
 
 ## Part 1: Marketing Attribution
@@ -195,6 +197,8 @@ Reality: Retention is flat or declining. Growth is just acquisition.
 | Mobile Apps | 5-10% | Day 30 retention |
 | Media/News | 15-25% | Subscriber retention |
 | Finance | 90%+ | Highly sticky |
+
+*Retention benchmarks: [Saras Analytics](https://www.sarasanalytics.com/blog/cohort-retention-analysis), [Recurly](https://recurly.com/research/churn-rate-benchmarks/).*
 
 > "Companies with retention rates higher than 85% grow 1.5-3× faster."
 >
@@ -368,6 +372,8 @@ The golden ratio: **CLV should be at least 3× CAC**.
 | E-commerce | 2:1 - 3:1 | $30-50 |
 | B2B Services | 4:1 - 6:1 | Varies widely |
 | Consumer Apps | 2:1 - 4:1 | $1-5 (organic) |
+
+*CLV:CAC benchmarks: [Admetrics](https://www.admetrics.io/en/post/clv-to-cac-ratio), [First Page Sage](https://firstpagesage.com/seo-blog/b2b-saas-funnel-conversion-benchmarks-fc/).*
 
 > "A 3:1 ratio is ideal—earning $3 in CLV for every $1 spent on acquisition."
 >
