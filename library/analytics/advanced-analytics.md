@@ -473,6 +473,8 @@ Action       → 2.9% (42% drop-off)
 | Begin checkout | 3-5% | Committed intent |
 | Account creation | 10-20% | Relationship building |
 
+*Micro-conversion data: [Dynamic Yield](https://marketing.dynamicyield.com/benchmarks/), [Smart Insights](https://www.smartinsights.com/ecommerce/ecommerce-analytics/ecommerce-conversion-rates/).*
+
 ### Funnel Optimization Framework
 
 #### Identify Drop-off Points
