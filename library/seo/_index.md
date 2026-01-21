@@ -98,12 +98,16 @@ Some SEO best practices also improve conversion:
 | SEO ranking factor | Yes (Core Web Vitals) |
 | CRO impact | 7% conversion loss per second delay |
 
+*Speed data: [Google/Deloitte](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html).*
+
 ### Mobile Optimization
 
 | Impact | Data |
 |--------|------|
 | SEO ranking factor | Yes (mobile-first indexing) |
 | CRO impact | 60%+ of traffic is mobile |
+
+*Mobile data: [Statista](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/).*
 
 ### Structured Data
 
