@@ -16,11 +16,11 @@ Without testing, you're guessing. With testing, you're learning.
 
 | Metric | Impact | Source |
 |--------|--------|--------|
-| Companies using A/B testing | 60% (34% more planning to) | VWO |
-| Tests stopped before significance | 80% | Industry research |
-| Typical test win rate | 10-33% | Multiple sources |
-| Median lift from winning tests | 7.5% | Analytics-Toolkit |
-| Companies running 2+ tests/month | 71% | Convert |
+| Companies using A/B testing | 60% (34% more planning to) | [VWO](https://vwo.com/blog/ab-testing-statistics/) |
+| Tests stopped before significance | 80% | [CXL](https://cxl.com/blog/ab-testing-statistics/) |
+| Typical test win rate | 10-33% | [VWO](https://vwo.com/blog/ab-testing-statistics/), [Convert](https://www.convert.com/blog/a-b-testing/ab-testing-stats/) |
+| Median lift from winning tests | 7.5% | [Analytics-Toolkit](https://www.analytics-toolkit.com/) |
+| Companies running 2+ tests/month | 71% | [Convert](https://www.convert.com/blog/a-b-testing/ab-testing-stats/) |
 
 ---
 

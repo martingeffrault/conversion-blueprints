@@ -452,6 +452,8 @@
 | Virtual tour request | 10-15% | Remote buyers |
 | Agent matching | 12-18% | Undecided buyers |
 
+*Lead capture benchmarks: [Real Estate Webmasters](https://www.realestatewebmasters.com/), [NAR](https://www.nar.realtor/research-and-statistics).*
+
 ### Home Valuation Tool (Seller Lead Gen)
 
 ```
