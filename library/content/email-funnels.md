@@ -30,6 +30,8 @@
 | Win-back | 29-40% | 5-10% | 1-3% |
 | Nurture | 25-35% | 3-8% | 1-2% |
 
+*Data: [Klaviyo](https://www.klaviyo.com/blog/abandoned-cart-benchmarks), [GetResponse](https://www.getresponse.com/blog/email-marketing-benchmarks-report-key-insights).*
+
 ---
 
 ## Universal Email Sequence Types
