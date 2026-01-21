@@ -599,6 +599,8 @@ The creator homepage balances personal brand with monetization:
 | Course completion | 10-15% | 30-40% |
 | Subscriber retention | 80-85% | 90%+ |
 
+*Benchmarks from [Substack](https://on.substack.com/), [ConvertKit](https://convertkit.com/resources), [Key-G creator economy data](https://key-g.com/blog/patreon-statistics-2025-key-insights-into-the-creator-economy/).*
+
 ### Urgency Tactics (Ethical)
 
 ```

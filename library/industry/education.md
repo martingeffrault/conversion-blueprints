@@ -503,6 +503,8 @@
 | Net Promoter Score | 30-50 | 70+ |
 | Retention (30-day) | 20-30% | 50%+ |
 
+*Completion rate data: [IRRODL MOOC Research](https://www.irrodl.org/index.php/irrodl/article/view/2112) (median 12.6%), [Class Central](https://www.classcentral.com/report/).*
+
 ---
 
 ## Sources

@@ -167,12 +167,14 @@
 
 | Element | Best Practice | Impact |
 |---------|--------------|--------|
-| Line length | 50-75 characters | +18% completion |
-| Font size | 18-21px body | +12% time on page |
-| Line height | 1.5-1.7 | +15% readability |
-| Paragraph spacing | 1.5em+ | +10% comprehension |
-| Progress indicator | Top bar or % | +8% completion |
-| Estimated read time | Below headline | +15% clicks |
+| Line length | 50-75 characters | Improved completion |
+| Font size | 18-21px body | Increased time on page |
+| Line height | 1.5-1.7 | Better readability |
+| Paragraph spacing | 1.5em+ | Better comprehension |
+| Progress indicator | Top bar or % | Higher completion |
+| Estimated read time | Below headline | More clicks |
+
+*Best practices based on [Nielsen Norman Group readability research](https://www.nngroup.com/articles/legibility-readability-comprehension/) and [Baymard Institute UX studies](https://baymard.com/blog).*
 
 ### Typography Scale for Articles
 
@@ -563,14 +565,16 @@ Menu expanded:
 
 | Mistake | Impact | Solution |
 |---------|--------|----------|
-| Too many ads | -35% time on page | Balance revenue/UX |
-| No mobile optimization | -60% mobile engagement | Mobile-first design |
+| Too many ads | Lower time on page | Balance revenue/UX |
+| No mobile optimization | Lower mobile engagement | Mobile-first design |
 | Slow loading | -7% per second | Performance optimization |
 | No clear hierarchy | Confusion | Strong visual hierarchy |
-| Aggressive popups | +40% bounce | Delayed, non-intrusive |
-| Hidden subscribe button | -50% conversions | Always visible |
+| Aggressive popups | Higher bounce rate | Delayed, non-intrusive |
+| Hidden subscribe button | Lower conversions | Always visible |
 | No newsletter strategy | Missed retention | Multiple capture points |
 | Generic related content | Low engagement | Personalized recommendations |
+
+*Site speed data: [Google/Deloitte](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html).*
 
 ---
 
