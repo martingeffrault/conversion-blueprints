@@ -208,6 +208,8 @@ Engagement signals that indicate interest.
 | Trial → Paid (with CC) | 30-60% | 60%+ | 75%+ |
 | Freemium → Paid | 2-5% | 5-7% | 10%+ |
 
+*SaaS funnel data: [First Page Sage](https://firstpagesage.com/seo-blog/average-saas-conversion-rates/), [Userpilot](https://userpilot.com/blog/saas-average-conversion-rate/).*
+
 ### Lead Generation Benchmarks
 
 | Micro-Conversion | Average | Good | Excellent | Source |

@@ -118,10 +118,10 @@ This blueprints library is a collection of proven frameworks, patterns, and temp
 
 | Element | Typical Lift | Source |
 |---------|--------------|--------|
-| Headline changes | 10-30% | Industry testing |
-| CTA optimization | 5-20% | Industry testing |
+| Headline changes | 10-30% | [CXL](https://cxl.com/blog/ab-test-results/) |
+| CTA optimization | 5-20% | [WiserNotify](https://wisernotify.com/blog/call-to-action-stats/) |
 | Form field reduction | Up to 120% | [HubSpot](https://blog.hubspot.com/marketing/form-length) |
-| Social proof | 5-15% | Industry testing |
+| Social proof | 5-15% | [WiserNotify](https://wisernotify.com/blog/social-proof-statistics/) |
 | Page speed (+1s delay) | -7% conversions | [Akamai](https://www.cloudflare.com/learning/performance/more/website-performance-conversion-rates/) |
 
 ### User Behavior

@@ -503,6 +503,8 @@ Must be at least 8 characters with one number  ← Help text
 | Multi-step vs single | Progressive vs all-at-once | 20-100%+ |
 | Social proof | With vs without | 5-20% |
 
+*Impact ranges from [HubSpot](https://blog.hubspot.com/marketing/form-length), [WPForms](https://wpforms.com/online-form-statistics-facts/), and [CXL](https://cxl.com/blog/form-design-best-practices/) A/B test data.*
+
 ### Testing Priorities
 
 1. **Number of fields** (highest impact)

@@ -16,6 +16,8 @@ Mobile dominates traffic but lags in conversions.
 | Conversion rate | 1.82-2.49% | 3.90-5.06% | ~51% lower |
 | Cart abandonment | 69.9% | 56% | Higher on mobile |
 
+*Data: [Statista](https://www.statista.com/statistics/277125/share-of-website-traffic-coming-from-mobile-devices/), [AppBrew](https://www.appbrew.com/blogs/ecommerce-mobile-conversion-rate-best-practices), [Baymard](https://baymard.com/lists/cart-abandonment-rate).*
+
 > "Mobile traffic has surpassed desktop browsing, making up 62.54% of total web traffic worldwide as of 2024."
 >
 > *Source: [AppBrew](https://www.appbrew.com/blogs/ecommerce-mobile-conversion-rate-best-practices)*
@@ -29,6 +31,8 @@ Mobile dominates traffic but lags in conversions.
 | Slow load times | 1 second = -7% conversions |
 | Poor form UX | 67% abandon complex forms |
 | Forced account creation | 24% abandon carts |
+
+*Impact data: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate), [Google/Deloitte](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html).*
 
 > "Mobile users are 5 times more likely to abandon a site if it's not optimized for their device."
 >
