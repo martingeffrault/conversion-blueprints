@@ -462,9 +462,9 @@ In Kahneman's 1993 study, participants experienced two versions of discomfort:
 
 ### Semantic Reframing Statistics
 
-> "Semantic reframing strategies have been shown to reduce impulse spending by 23% by replacing 'limited-time discounts' with 'current prices' and converting percentage offers to absolute value statements."
+> "Semantic reframing strategies can influence purchasing decisions by changing how prices are perceived — such as showing daily costs instead of annual, or absolute savings instead of percentages."
 >
-> *Source: HBEM 2025 Research*
+> *Source: [ResearchGate - Price Reframing Tactics](https://www.researchgate.net/publication/244478492_Consumer_Evaluations_of_Temporal_Reframing_of_Prices)*
 
 ### When to Use Each Frame
 
