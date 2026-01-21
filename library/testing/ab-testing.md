@@ -30,8 +30,8 @@ A/B testing (split testing) compares two versions of a page or element to determ
 | Tests with significant winners | ~33% | Analytics-Toolkit |
 | Median lift from winners | 7.5% | Analytics-Toolkit |
 | Mean lift from winners | 15.9% | Analytics-Toolkit |
-| Mature site win rate | 10-20% | Industry benchmarks |
-| New optimization win rate | 25-33% | Industry benchmarks |
+| Mature site win rate | 10-20% | [VWO](https://vwo.com/blog/ab-testing-statistics/) |
+| New optimization win rate | 25-33% | [Convert](https://www.convert.com/blog/a-b-testing/ab-testing-stats/) |
 
 > "While tests only win 33% of the time, A/B tests help make a clearly right decision about 66% of the time—shipping a product that won (33%) is a win, but so is not shipping a product that lost (another 33%)."
 >

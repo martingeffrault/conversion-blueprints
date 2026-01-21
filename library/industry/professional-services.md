@@ -488,7 +488,7 @@ Questions that help qualify leads:
 | Contact form CVR | 2.5-4.6% | 10-12%+ | [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/), [Martal](https://martal.ca/conversion-rate-statistics-lb/) |
 | Form to meeting rate | 30% | 66.7% | [Chili Piper](https://www.chilipiper.com/post/form-conversion-rate-benchmark-report) |
 | Paid search CVR | 3.2% | 4.6%+ | [Ruler Analytics](https://www.ruleranalytics.com/blog/insight/conversion-rate-by-industry/) |
-| Landing page CVR | 5-15% | 20%+ | Industry benchmarks |
+| Landing page CVR | 5-15% | 20%+ | [Unbounce](https://unbounce.com/conversion-benchmark-report/) |
 
 *Professional services ranks among highest-converting B2B verticals — [Martal Group](https://martal.ca/conversion-rate-statistics-lb/)*
 
